@@ -81,7 +81,7 @@ h1.title {
 
   100% {
     top: -50px;
-    opacity: 0; } }
+    opacity: 1; } }
 @keyframes move-up {
   0% {
     top: 25px;
